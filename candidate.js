@@ -24,7 +24,10 @@ function sharedTags(candidates) {
     let tags = []
     candidates.map((candidate)=>{
       if(candidate.selected){
-        candidate.tags.filter()
+        // console.log(candidate.tags)
+        for(tOne of candidate.tags[0]){
+
+        }
       }
     })
 }
