@@ -24,7 +24,7 @@ function sharedTags(candidates) {
     let tags = []
     candidates.map((candidate)=>{
       if(candidate.selected){
-
+        candidate.tags.filter()
       }
     })
 }
