@@ -1,7 +1,7 @@
 let Candidate = [{
     id: "one",
     name: "joe",
-    tags: ["cool", "neat", "awesome"],
+    tags: [ "awesome", "cool", "rad", "neat"],
     selected: true,
   }, {
     id: "two",
@@ -11,12 +11,12 @@ let Candidate = [{
   }, {
     id: "two",
     name: "joe",
-    tags: ["cool", "sweet", "radical", "neat"],
+    tags: ["rad", "cool", "sweet", "awesome", "neat"],
     selected: true,
   }, {
     id: "two",
     name: "joe",
-    tags: ["awesome", "near", "sweet", "cool"],
+    tags: ["awesome", "rad", "neat", "sweet", "cool"],
     selected: true,
   }]
 
